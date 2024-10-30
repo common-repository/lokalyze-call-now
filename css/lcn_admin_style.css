@@ -1,0 +1,24 @@
+.maincontainer { float: left; margin: 0; padding: 0; width: 100%; }
+.mainwrap { margin: 0 auto; padding: 0; width: 95%; }
+.maincontent { float: left; margin: 2% 0 0; padding: 0; width: 100%; }
+.formcont { float: left; margin: 0 0 5%; padding: 0; width: 100%; }
+.contentcontainer { float: left; margin: 1% 0 0; padding: 0; width: 100%; }
+.createdby { width: 100%; float: left; margin: 0; padding: 0; border-top: 1px solid #999999; }
+.createdby p { text-align: center; }
+.createdby a { color: #0000FF; text-decoration: underline; }
+.lsform_table { background: hsl(0, 0%, 99%) none repeat scroll 0 0; border: 1px solid hsl(0, 0%, 80%); width: 100%; }
+.lsform_table tr:nth-child(2n) { background: hsl(0, 0%, 98%) none repeat scroll 0 0; }
+.lsform_table th { font-weight: 600; padding: 10px; text-align: left; vertical-align: top; width: 25%; }
+.lsform_table td { padding: 10px; text-align: left; vertical-align: top; width: 75%; }
+.lsform_table label { float: left; margin: 5px 10px; }
+.successmessagenew { color:#FF0000; display: none; margin: 0 2%; }
+.lsform_table input[type="text"], textarea { width: 80%; }
+.lsform_table select { width: 50%; }
+.lsform_table textarea { height: 150px; } 
+.lsform_table.openhours { width: 60%; }
+.lsform_table.openhours td { width: auto; }
+.openhours label { font-weight: 600; text-align: center; }
+.lsform_table.openhours select { float: left; margin: 0 4%; width: auto; }
+.formcont ol ul { list-style: inside none disc; padding: 10px; }
+.formcont li { font-size: 14px; list-style: inside; }
+.lsform_table input[name="lokalyze_lcn_callnowphone"] { width: 25%; }
